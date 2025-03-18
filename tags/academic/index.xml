@@ -5,12 +5,52 @@
     <link>https://rmahkamov.github.io/tags/academic/</link>
       <atom:link href="https://rmahkamov.github.io/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rmahkamov.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Academic</title>
       <link>https://rmahkamov.github.io/tags/academic/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://rmahkamov.github.io/post/02/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://rmahkamov.github.io/post/02/</guid>
+      <description>&lt;h1 id=&#34;итоги-учебной-недели&#34;&gt;Итоги учебной недели&lt;/h1&gt;
+&lt;p&gt;Эта неделя была насыщенной! Мы разобрали новые темы по математическому анализу и линейной алгебре, а также познакомились с основами механики. Особенно интересным оказался разбор уравнений Лагранжа — сложная, но очень красивая тема.&lt;/p&gt;
+&lt;p&gt;Практические занятия тоже не дали скучать: пришлось хорошенько напрячь мозги, решая задачи. Впереди еще больше интересных тем, и я уже жду следующей недели!&lt;/p&gt;
+&lt;p&gt;Как у вас дела с учебой?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки разметки. LaTeX</title>
+      <link>https://rmahkamov.github.io/publication/02/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://rmahkamov.github.io/publication/02/</guid>
+      <description>&lt;h1 id=&#34;языки-разметки-latex&#34;&gt;Языки разметки. LaTeX&lt;/h1&gt;
+&lt;h2 id=&#34;что-такое-языки-разметки&#34;&gt;Что такое языки разметки?&lt;/h2&gt;
+&lt;p&gt;Языки разметки используются для структурирования и форматирования текста. В отличие от языков программирования, они не выполняют логических операций, а определяют, как должен выглядеть документ.&lt;/p&gt;
+&lt;p&gt;Среди них можно выделить HTML (используется для веб-страниц), Markdown (популярен среди блогеров и разработчиков) и LaTeX — мощный инструмент для научных текстов.&lt;/p&gt;
+&lt;h2 id=&#34;почему-именно-latex&#34;&gt;Почему именно LaTeX?&lt;/h2&gt;
+&lt;p&gt;LaTeX — это система верстки, предназначенная для работы с научными, техническими и математическими текстами. Она позволяет легко оформлять сложные документы с формулами, таблицами и графиками.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Основные преимущества:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Отличное качество типографики&lt;/strong&gt; — тексты выглядят профессионально.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Автоматизация нумерации, ссылок и библиографий&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Поддержка сложных математических выражений&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Гибкость в оформлении&lt;/strong&gt; — можно полностью контролировать внешний вид документа.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;где-используется-latex&#34;&gt;Где используется LaTeX?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;В университетах для написания курсовых, дипломных и диссертаций.&lt;/li&gt;
+&lt;li&gt;В научных публикациях.&lt;/li&gt;
+&lt;li&gt;В технической документации и учебных материалах.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Хотя освоение LaTeX требует времени, он остается незаменимым инструментом для точного и профессионального оформления текстов.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
