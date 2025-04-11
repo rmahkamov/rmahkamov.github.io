@@ -5,7 +5,7 @@
     <link>https://rmahkamov.github.io/tags/hugo/</link>
       <atom:link href="https://rmahkamov.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rmahkamov.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo</title>
@@ -13,27 +13,31 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://rmahkamov.github.io/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://rmahkamov.github.io/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://rmahkamov.github.io/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://rmahkamov.github.io/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://rmahkamov.github.io/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://rmahkamov.github.io/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Сайт научного работника</title>
+      <link>https://rmahkamov.github.io/project/hugo/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://rmahkamov.github.io/project/hugo/</guid>
+      <description>&lt;h1 id=&#34;сайт-научного-работника-на-hugo-academic-инновационный-подход-к-личному-брендингу&#34;&gt;Сайт научного работника на Hugo Academic: инновационный подход к личному брендингу&lt;/h1&gt;
+&lt;h2 id=&#34;почему-именно-hugo-academic&#34;&gt;Почему именно Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;В мире, где информация распространяется молниеносно, научным работникам важно иметь площадку, где можно не только делиться открытиями, но и демонстрировать свою профессиональную идентичность. Hugo Academic — это инструмент, который помогает в этом, объединяя простоту и мощь современных технологий:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Цель — научное сообщество&lt;/strong&gt;: Тематика и структура подстраиваются под требования исследователей, публицистов и преподавателей.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Легкость в управлении контентом&lt;/strong&gt;: Используя Markdown и Git, вы быстро обновляете сайт без лишних сложностей.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Адаптивный дизайн&lt;/strong&gt;: Ваш сайт будет отлично смотреться на любом устройстве, будь то смартфон, планшет или десктоп.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;функциональные-возможности&#34;&gt;Функциональные возможности&lt;/h2&gt;
+&lt;p&gt;Сайт, созданный на базе Hugo Academic, предоставляет широкий набор функций для научного работника:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Библиография и публикации&lt;/strong&gt;: Удобная система для представления списка научных работ с метаданными и ссылками на оригинальные источники.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Исследовательские проекты&lt;/strong&gt;: Выделите отдельные разделы для описания текущих и завершенных проектов, добавляя визуальные элементы и ключевые детали.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Обучение и курсы&lt;/strong&gt;: Преподаватели могут создавать разделы для учебных материалов, программ и расписаний.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Новости и блог&lt;/strong&gt;: Делитесь актуальными новостями из вашей лаборатории или размышлениями о трендах в науке, делая контент живым и динамичным.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;взгляд-в-будущее&#34;&gt;Взгляд в будущее&lt;/h2&gt;
+&lt;p&gt;Создавая сайт на Hugo Academic, вы не просто обновляете свое портфолио. Вы формируете пространство, где можно общаться с коллегами, привлекать внимание потенциальных партнеров и делиться знаниями с более широкой аудиторией. Ваш сайт становится отражением вашей научной карьеры и индивидуальности, подчеркивая уникальность ваших исследований.&lt;/p&gt;
+&lt;h2 id=&#34;итог&#34;&gt;Итог&lt;/h2&gt;
+&lt;p&gt;Использование Hugo Academic — это возможность не только показать достижения, но и создать функциональный и стильный инструмент для взаимодействия с мировым научным сообществом. Сайт научного работника, оформленный с учетом всех современных требований, станет вашим надежным помощником в цифровую эпоху.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
